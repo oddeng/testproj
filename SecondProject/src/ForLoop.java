@@ -17,7 +17,7 @@ public class ForLoop {
 		
 	}
 
-}
+
 /* OUTPUT
 My var at Line 1 with Value:Nothing		// the memory will carry as the first memory can never be access again
 My var at Line 2 with Value:Nothing-1

@@ -65,17 +65,24 @@ public class TestString {
 			
 			String country = "malaysia";
 			String userCountry = args[0].toLowerCase();
-			//if (country.equals(args[0])) {
+			//if (country.equals(args[0])) 
+			{
 			if(country.equalsIgnoreCase(args[0]));{
 				System.out.println("Country is Malaysia :");
-			} else {
-				System.out.println("Country is not Malaysia but :" + args[0]);
 			}
+			{
+			else
+				System.out.println("Country is not Malaysia but :" + args[0]);
 			
-			
-			
-			
-			
+		}
 	}
+	
+			
+			
+			
+			
+			
+			
+			
+	
 
-}
